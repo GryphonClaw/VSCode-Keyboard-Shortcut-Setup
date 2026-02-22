@@ -14,7 +14,7 @@ Keyboard Shortcuts
 
 <img width="306" height="304" alt="image" src="https://github.com/user-attachments/assets/e3f74e37-aff0-4510-803c-87451e616b0a" />
 
-After that, click on the following icon at the top right of they editor
+After that, click on the following icon at the top right of the editor
 
 <img width="162" height="66" alt="image" src="https://github.com/user-attachments/assets/d698f228-af87-4cf7-a904-5e7c9d4da426" />
 

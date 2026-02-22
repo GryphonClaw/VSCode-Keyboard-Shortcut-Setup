@@ -1,5 +1,4 @@
 # VSCode Keyboard Shortcut Setup For DragonRuby
-##VSCode Keyboard Shortcut Setup Tutorial For DragonRuby
 
 ### Adding the Keyboard Shortcut
 In VSCode add the following to your User level keybindings settings file, easiest way to get to is to click the gear icon at the bottom of a workspace window
